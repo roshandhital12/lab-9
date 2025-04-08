@@ -1,0 +1,18 @@
+.button {
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
+
+.text-field {
+    -fx-border-color: #2ecc71;
+    -fx-font-size: 16px;
+    -fx-padding: 5px;
+}
+
+.list-view {
+    -fx-border-color: #2ecc71;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+}
